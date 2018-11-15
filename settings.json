@@ -1,0 +1,35 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "python.pythonPath": "/usr/local/bin/python3",
+    "editor.renderWhitespace": "all",
+    "workbench.iconTheme": "vscode-icons",
+    // "standard.autoFixOnSave": true,
+    "editor.minimap.enabled": false,
+    "eslint.autoFixOnSave": true,
+    // "eslint.options": {
+    //     "configFile": "/Users/hfn/Sites/dbwebb-kurser/.eslintrc.json"
+    // },
+    "latex-workshop.view.pdf.viewer": "tab",
+    "eslint.alwaysShowStatus": true,
+    "files.insertFinalNewline": true,
+    "breadcrumbs.enabled": false,
+    "editor.fontSize": 14,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "terminal.integrated.fontWeightBold": "normal",
+    "rewrap.autoWrap.enabled": true,
+    "rewrap.reformat": true,
+    "html.format.wrapLineLength": 80,
+    "html.format.indentInnerHtml": true,
+    "editor.fontLigatures": true,
+    "window.zoomLevel": 0,
+    "prettier.eslintIntegration": true,
+    "prettier.tabWidth": 4,
+    "workbench.editor.showTabs": true,
+    "rewrap.wrappingColumn": 80,
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "powermode.enabled": true,
+    "powermode.enableShake": false,
+    "powermode.presets": "fireworks",
+}
